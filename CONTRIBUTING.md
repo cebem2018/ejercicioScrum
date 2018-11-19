@@ -1,7 +1,8 @@
 # Clonar el repositorio
 
+```
 git clone https://github.com/cebem2018/ejercicioScrum.git
-
+```
 
 # Actualizar los posibles cambios que se produzcan en el repositorio remoto
 
@@ -16,7 +17,7 @@ git pull
 
 # Como contribuir
 
-Creamos una nueva rama y nos posicionamos en ella 33=numero del issue
+Creamos una nueva rama y nos posicionamos en ella **33=numero del issue**
 ```
 git checkout -b 33NombreIssue
 ```
@@ -45,7 +46,7 @@ git push -u origin 33NombreIssue
 # Creamos un pull-request
 Accedemos a github y abrimos un pull request pulsando compare & pull request
 - Asociamos el pull-request al issue correspondiente
-- Como texto del mensaje del pull-request escribimos closes #33
+- Como texto del mensaje del pull-request escribimos __closes #33__
 Esperamos a que el gestor de integraciones acepte el cambio
 
 
