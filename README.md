@@ -4,11 +4,10 @@
 
 #Vamos a crear un proyecto en git usando la metodología scrum completa.
 
-El proyecto se va a alojar en GitHub
-Se usará el workflow: Flujo de trabajo centralizado con gestor de integraciones 
-Ver la diapositiva 137 Flujo de trabajo centralizado en
-https://docs.google.com/presentation/d/1HXiFQssb-602Hj0iZQfeVbA0dDaPGNUtbT9UcZBH0LM/edit?usp=sharing 
-Existirá un repositorio centralizado en el que todos tendremos permisos de escritura.
+- El proyecto se va a alojar en GitHub
+  - Se usará el workflow: Flujo de trabajo centralizado con gestor de integraciones 
+    - Ver la diapositiva 137 Flujo de trabajo centralizado en https://docs.google.com/presentation/d/1HXiFQssb-602Hj0iZQfeVbA0dDaPGNUtbT9UcZBH0LM/edit?usp=sharing 
+    - Existirá un repositorio centralizado en el que todos tendremos permisos de escritura.
 Se optará por la técnica de rebase en lugar de merge
 El gestor de integraciones (integrator) será el profe
 Cada alumno desarrolla en una rama nueva que comiteará con pull-request al integrator (profe)
