@@ -6,7 +6,7 @@
 
 - El proyecto se va a alojar en GitHub
   - Se usará el workflow: Flujo de trabajo centralizado con gestor de integraciones 
-    - Ver la diapositiva 137 Flujo de trabajo centralizado en https://docs.google.com/presentation/d/1HXiFQssb-602Hj0iZQfeVbA0dDaPGNUtbT9UcZBH0LM/edit?usp=sharing 
+    - Ver la diapositiva 137 Flujo de trabajo centralizado 
     - Existirá un repositorio centralizado en el que todos tendremos permisos de escritura.
     - Se optará por la técnica de rebase en lugar de merge
     - El gestor de integraciones (integrator) será el profe
@@ -19,7 +19,7 @@
   - Un alumno (cualquiera) hará también de Scrum Master
   - El profe hará de Product Owner
 - Proyecto a desarrollar:
-  - Para que el desarrollo sea sencillo y rápido, el trabajo de los alumnos consistirá en abrir el cuaderno python con el que estamos trabajando en clase https://colab.research.google.com/drive/1wmJ82C9BXM1RdW3Z29lt59f-6DvoqIse , escoger algo que hayamos visto y hacer un pequeño ejemplo funcional.
+  - Para que el desarrollo sea sencillo y rápido, el trabajo de los alumnos consistirá en abrir el cuaderno python con el que estamos trabajando en clase, escoger algo que hayamos visto y hacer un pequeño ejemplo funcional.
   - Ese pequeño ejercicio en python se corresponderá con una historia de usuario.
   - Al Menos cada alumno tendrá que construir 3 historias de usuario (que estará dividida en tareas)
 
