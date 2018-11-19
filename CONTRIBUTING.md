@@ -39,12 +39,12 @@ Cogemos nuestros nuevos commits, separarlos de la base actualizamos la rama loca
 git rebase origin/master
 ```
 
-        > En caso de exitir algun conflicto:
-        > Abrimos el fichero xxxx.py y solucionamos el conflicto
-        > code xxxx.py
-        > Resolvemos el conflicto (normalmente hay que hablar con la persona con la hemos entrado en conflicto)
-        > git add index.html
-        > git rebase --continue
+> En caso de exitir algun conflicto:
+> Abrimos el fichero xxxx.py y solucionamos el conflicto
+> code xxxx.py
+> Resolvemos el conflicto (normalmente hay que hablar con la persona con la hemos entrado en conflicto)
+> git add index.html
+> git rebase --continue
 
 
 Subimos la rama a remoto
