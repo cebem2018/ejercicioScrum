@@ -1,6 +1,6 @@
 string = "hEY YO hOMIE"
 
-def testo_con_swag(string):
-    return string.swapcase
+def texto_con_swag(string):
+    return string.swapcase()
 
-print(testo_con_swag(string))
+print(texto_con_swag(string))
