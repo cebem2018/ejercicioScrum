@@ -1,3 +1,4 @@
+#Vamos a escribir cada elemento de una lista en una linea
 # Lista con las lineas a escribir en el fichero
 lineas = ['Uno', 'Dos', 'Tres', 'Cuatro', 'Cinco', 'Seis', '...']
 
@@ -7,6 +8,7 @@ dirFichero = './fichero_escribir.txt'
 #  en este caso empieza a escribir contenido a partir de esa posición.
 fichero = open(dirFichero, 'w')
 for l in lineas:
+    #con el metodo write() escribimos el contenido que le pasamos como param.
     fichero.write(l + '\n')
 fichero.close()
 
