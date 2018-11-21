@@ -1,5 +1,3 @@
-
-
 def texto_con_swag(string):
     """Invierte el texto recibido entre mayusculas/minusculas
     >>> texto_con_swag("hEY YO hOMIE")
